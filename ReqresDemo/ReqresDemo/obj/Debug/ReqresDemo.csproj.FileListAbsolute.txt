@@ -1,0 +1,12 @@
+E:\Projects\Intern\Assesment\ReqresDemo\ReqresDemo\bin\Debug\ReqresDemo.dll
+E:\Projects\Intern\Assesment\ReqresDemo\ReqresDemo\bin\Debug\ReqresDemo.pdb
+E:\Projects\Intern\Assesment\ReqresDemo\ReqresDemo\bin\Debug\Newtonsoft.Json.dll
+E:\Projects\Intern\Assesment\ReqresDemo\ReqresDemo\bin\Debug\nunit.framework.dll
+E:\Projects\Intern\Assesment\ReqresDemo\ReqresDemo\bin\Debug\RestSharp.dll
+E:\Projects\Intern\Assesment\ReqresDemo\ReqresDemo\bin\Debug\Newtonsoft.Json.xml
+E:\Projects\Intern\Assesment\ReqresDemo\ReqresDemo\bin\Debug\nunit.framework.xml
+E:\Projects\Intern\Assesment\ReqresDemo\ReqresDemo\bin\Debug\RestSharp.xml
+E:\Projects\Intern\Assesment\ReqresDemo\ReqresDemo\obj\Debug\ReqresDemo.csproj.CoreCompileInputs.cache
+E:\Projects\Intern\Assesment\ReqresDemo\ReqresDemo\obj\Debug\ReqresDemo.csproj.CopyComplete
+E:\Projects\Intern\Assesment\ReqresDemo\ReqresDemo\obj\Debug\ReqresDemo.dll
+E:\Projects\Intern\Assesment\ReqresDemo\ReqresDemo\obj\Debug\ReqresDemo.pdb
